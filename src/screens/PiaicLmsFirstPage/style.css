@@ -1,0 +1,1333 @@
+.PIAIC-LMS-first-page {
+  background-color: #000012;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PIAIC-LMS-first-page .div {
+  background-color: #000012;
+  border: 1px none;
+  height: 6373px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1955px;
+}
+
+.PIAIC-LMS-first-page .overlap {
+  height: 1109px;
+  left: -62px;
+  position: absolute;
+  top: -135px;
+  width: 2201px;
+}
+
+.PIAIC-LMS-first-page .overlap-group {
+  height: 1109px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2201px;
+}
+
+.PIAIC-LMS-first-page .overlap-2 {
+  height: 842px;
+  left: 1053px;
+  position: absolute;
+  top: 267px;
+  width: 1148px;
+}
+
+.PIAIC-LMS-first-page .ellipse {
+  background-color: #2c253eb2;
+  border-radius: 327px/317.5px;
+  filter: blur(160px);
+  height: 635px;
+  left: 494px;
+  position: absolute;
+  top: 207px;
+  width: 654px;
+}
+
+.PIAIC-LMS-first-page .herobg {
+  height: 641px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 650px;
+}
+
+.PIAIC-LMS-first-page .overlap-3 {
+  height: 676px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1908px;
+}
+
+.PIAIC-LMS-first-page .ellipse-2 {
+  background-color: #2c253eb2;
+  border-radius: 327px/317.5px;
+  filter: blur(160px);
+  height: 635px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 654px;
+}
+
+.PIAIC-LMS-first-page .launch-your-dev {
+  height: 294px;
+  left: 390px;
+  position: absolute;
+  top: 314px;
+  width: 567px;
+}
+
+.PIAIC-LMS-first-page .showcase-your-skills {
+  color: #c0c2c9;
+  font-family: "Montserrat", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 390px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 634px;
+}
+
+.PIAIC-LMS-first-page .navbar {
+  height: 105px;
+  left: 122px;
+  position: absolute;
+  top: 135px;
+  width: 1786px;
+}
+
+.PIAIC-LMS-first-page .frame {
+  height: 105px;
+  left: 1379px;
+  position: absolute;
+  top: 0;
+  width: 105px;
+}
+
+.PIAIC-LMS-first-page .overlap-group-2 {
+  height: 19px;
+  left: 26px;
+  position: relative;
+  top: 49px;
+  width: 79px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper {
+  color: #fffafa;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.PIAIC-LMS-first-page .span {
+  align-items: flex-start;
+  display: flex;
+  left: 63px;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .image {
+  height: 10.66px;
+  min-width: 16px;
+  position: relative;
+}
+
+.PIAIC-LMS-first-page .img {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1509px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1715px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .image-wrapper {
+  align-items: flex-start;
+  display: flex;
+  left: 1766px;
+  position: absolute;
+  top: 55px;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .image-2 {
+  height: 10.66px;
+  min-width: 16px;
+  position: relative;
+}
+
+.PIAIC-LMS-first-page .div-wrapper {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 49px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 26px;
+  width: 133px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 21px;
+  font-weight: 800;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 112px;
+}
+
+.PIAIC-LMS-first-page .image-3 {
+  height: 11px;
+  left: 1876px;
+  position: absolute;
+  top: 190px;
+  width: 16px;
+}
+
+.PIAIC-LMS-first-page .welcome-to-edumate {
+  height: 36px;
+  left: 704px;
+  position: absolute;
+  top: 1061px;
+  width: 543px;
+}
+
+.PIAIC-LMS-first-page .overlap-4 {
+  background-color: #009fe3;
+  border-radius: 25px;
+  height: 45px;
+  left: 390px;
+  position: absolute;
+  top: 719px;
+  width: 150px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.PIAIC-LMS-first-page .overlap-5 {
+  height: 649px;
+  left: -202px;
+  position: absolute;
+  top: 4611px;
+  width: 1740px;
+}
+
+.PIAIC-LMS-first-page .overlap-6 {
+  height: 648px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1740px;
+}
+
+.PIAIC-LMS-first-page .ellipse-3 {
+  background-color: #2c253eb2;
+  border-radius: 327px/317.5px;
+  filter: blur(160px);
+  height: 635px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 654px;
+}
+
+.PIAIC-LMS-first-page .p {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 22px;
+  left: 548px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 338px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 22px;
+  left: 548px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 485px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 22px;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 626px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .line {
+  height: 8px;
+  left: 548px;
+  position: absolute;
+  top: 420px;
+  width: 1185px;
+}
+
+.PIAIC-LMS-first-page .line-2 {
+  height: 8px;
+  left: 555px;
+  position: absolute;
+  top: 564px;
+  width: 1185px;
+}
+
+.PIAIC-LMS-first-page .h-1 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  height: 205px;
+  left: 659px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: 954px;
+}
+
+.PIAIC-LMS-first-page .overlap-7 {
+  height: 22px;
+  left: 1670px;
+  position: absolute;
+  top: 345px;
+  width: 20px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 34px;
+  font-weight: 400;
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 34px;
+  font-weight: 400;
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 34px;
+  font-weight: 400;
+  height: 22px;
+  left: 1673px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 484px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 34px;
+  font-weight: 400;
+  height: 22px;
+  left: 1671px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 627px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .overlap-8 {
+  height: 635px;
+  left: 13px;
+  position: absolute;
+  top: 5624px;
+  width: 2115px;
+}
+
+.PIAIC-LMS-first-page .ellipse-4 {
+  background-color: #2c253eb2;
+  border-radius: 327px/317.5px;
+  filter: blur(160px);
+  height: 635px;
+  left: 1461px;
+  position: absolute;
+  top: 0;
+  width: 654px;
+}
+
+.PIAIC-LMS-first-page .div-flex {
+  height: 317px;
+  left: 562px;
+  position: absolute;
+  top: 278px;
+  width: 1338px;
+}
+
+.PIAIC-LMS-first-page .div-w-full {
+  height: 154px;
+  left: 645px;
+  position: relative;
+  top: 16px;
+  width: 693px;
+}
+
+.PIAIC-LMS-first-page .heading-get-the {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .p-font-poppins {
+  align-items: flex-start;
+  display: flex;
+  left: 0;
+  padding: 0px 22.02px 0px 0px;
+  position: absolute;
+  top: 38px;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .this-roadmap-will {
+  color: #a3b3bc;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .div-mt {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  left: 0;
+  padding: 0px 2.29e-5px 0px 0px;
+  position: absolute;
+  top: 106px;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .input-input {
+  align-items: flex-start;
+  background-color: #212933;
+  border-radius: 9999px;
+  display: flex;
+  flex: 1;
+  padding: 11px 20px 12px;
+  position: relative;
+}
+
+.PIAIC-LMS-first-page .div-placeholder {
+  align-items: flex-start;
+  display: flex;
+  padding: 1px 126px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-12 {
+  color: #9ca3af;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .div-flex-button {
+  align-items: flex-start;
+  background-color: #2190ff;
+  border-radius: 9999px;
+  display: flex;
+  padding: 16px 24.02px 16px 23px;
+  position: relative;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .button-subscribe {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .div-flex-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  left: 25px;
+  padding: 16px 15.98px 16px 16px;
+  position: absolute;
+  top: 278px;
+  width: 645px;
+}
+
+.PIAIC-LMS-first-page .div-flex-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  padding: 0px 99px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .div-mt-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 0px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-14 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-15 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-16 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-17 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .div-flex-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  padding: 0px 62px 0px 0px;
+  position: relative;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .div-mt-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 0px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-19 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-20 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-21 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-22 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-23 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .div-flex-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  padding: 0px 51px 0px 0px;
+  position: relative;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .div-mt-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 0px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-25 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-26 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-27 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-28 {
+  color: #d0dfff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .line-3 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 230px;
+  width: 1931px;
+}
+
+.PIAIC-LMS-first-page .line-4 {
+  height: 11px;
+  left: 6px;
+  position: absolute;
+  top: 596px;
+  width: 1936px;
+}
+
+.PIAIC-LMS-first-page .ellipse-5 {
+  height: 36px;
+  left: 350px;
+  position: absolute;
+  top: 1061px;
+  width: 111px;
+}
+
+.PIAIC-LMS-first-page .hands-on-projects {
+  color: #c0c2c9;
+  font-family: "Montserrat", Helvetica;
+  font-size: 21px;
+  font-weight: 500;
+  left: 531px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 997px;
+}
+
+.PIAIC-LMS-first-page .overlap-9 {
+  background-color: #232430;
+  border-radius: 35px;
+  height: 631px;
+  left: 398px;
+  position: absolute;
+  top: 1125px;
+  width: 1137px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-29 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 22px;
+  left: 450px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 293px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .comprehensive {
+  height: 106px;
+  left: 455px;
+  position: absolute;
+  top: 1882px;
+  width: 1012px;
+}
+
+.PIAIC-LMS-first-page .want-to-master-react {
+  color: #c0c2c9;
+  font-family: "Montserrat", Helvetica;
+  font-size: 21px;
+  font-weight: 500;
+  left: 465px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2042px;
+  width: 1011px;
+}
+
+.PIAIC-LMS-first-page .rectangle {
+  background-color: #23232f;
+  border-radius: 35px;
+  height: 479px;
+  left: 398px;
+  position: absolute;
+  top: 2226px;
+  width: 496px;
+}
+
+.PIAIC-LMS-first-page .rectangle-2 {
+  background-color: #232430;
+  border-radius: 35px;
+  height: 479px;
+  left: 1039px;
+  position: absolute;
+  top: 2226px;
+  width: 496px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-30 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 21px;
+  font-weight: 500;
+  left: 667px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2786px;
+}
+
+.PIAIC-LMS-first-page .stars {
+  height: 25px;
+  left: 792px;
+  position: absolute;
+  top: 2787px;
+  width: 150px;
+}
+
+.PIAIC-LMS-first-page .element-reviews-on {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 21px;
+  font-weight: 500;
+  left: 960px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2785px;
+}
+
+.PIAIC-LMS-first-page .frame-wrapper {
+  background-color: #2c263f;
+  border-radius: 61px;
+  filter: blur(173px);
+  height: 789px;
+  left: 346px;
+  position: absolute;
+  top: 2967px;
+  width: 1208px;
+}
+
+.PIAIC-LMS-first-page .frame-2 {
+  background-color: #23232f;
+  border-radius: 30px;
+  height: 587px;
+  left: 80px;
+  position: relative;
+  top: 101px;
+  width: 1045px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-31 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(229.5, 118.12, 15.3) 0%, rgb(244.9, 249.69, 10.4) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  height: 22px;
+  left: 317px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .the-EDUMATE-pro-wrapper {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  left: 124px;
+  padding: 10px;
+  position: absolute;
+  top: 115px;
+  width: fit-content;
+}
+
+.PIAIC-LMS-first-page .the-EDUMATE-pro {
+  height: 152.38px;
+  margin-bottom: -28.02px;
+  margin-top: -14.36px;
+  min-width: 773.04px;
+  position: relative;
+}
+
+.PIAIC-LMS-first-page .showcase-your {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  height: 110px;
+  left: 146px;
+  letter-spacing: 0.9px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 293px;
+}
+
+.PIAIC-LMS-first-page .overlap-10 {
+  height: 52px;
+  left: 459px;
+  position: absolute;
+  top: 477px;
+  width: 128px;
+}
+
+.PIAIC-LMS-first-page .rectangle-button {
+  background-color: #009fe3;
+  border-radius: 24px;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.PIAIC-LMS-first-page .learn-more-button {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 44px;
+  left: 26px;
+  letter-spacing: 0.6px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+}
+
+.PIAIC-LMS-first-page .ditch-theory-driven {
+  height: 155px;
+  left: 372px;
+  position: absolute;
+  top: 3867px;
+  width: 1134px;
+}
+
+.PIAIC-LMS-first-page .chat-wrapper {
+  background-color: #009fe3;
+  border-radius: 48px/46px;
+  height: 92px;
+  left: 378px;
+  position: absolute;
+  top: 4155px;
+  width: 96px;
+}
+
+.PIAIC-LMS-first-page .chat {
+  height: 50px;
+  left: 23px;
+  position: absolute;
+  top: 21px;
+  width: 50px;
+}
+
+.PIAIC-LMS-first-page .medal-wrapper {
+  background-color: #de4a4a;
+  border-radius: 48px/46px;
+  height: 92px;
+  left: 812px;
+  position: absolute;
+  top: 4155px;
+  width: 96px;
+}
+
+.PIAIC-LMS-first-page .medal {
+  height: 50px;
+  left: 23px;
+  position: absolute;
+  top: 21px;
+  width: 50px;
+}
+
+.PIAIC-LMS-first-page .computer-wrapper {
+  background-color: #009fe3;
+  border-radius: 48px/46px;
+  height: 92px;
+  left: 1246px;
+  position: absolute;
+  top: 4159px;
+  width: 96px;
+}
+
+.PIAIC-LMS-first-page .computer {
+  height: 50px;
+  left: 23px;
+  position: absolute;
+  top: 23px;
+  width: 50px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-32 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 29px;
+  font-weight: 600;
+  height: 22px;
+  left: 378px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 4293px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 29px;
+  font-weight: 600;
+  height: 22px;
+  left: 812px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 4292px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-34 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 29px;
+  font-weight: 600;
+  height: 22px;
+  left: 1246px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 4291px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .gain-access-to {
+  color: #c0c2c9;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 110px;
+  left: 378px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 4335px;
+}
+
+.PIAIC-LMS-first-page .theory-will-only-get {
+  color: #c0c2c9;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 110px;
+  left: 812px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 4335px;
+}
+
+.PIAIC-LMS-first-page .earn-JSM-pro {
+  color: #c0c2c9;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 110px;
+  left: 1246px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 4339px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-35 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 22px;
+  left: 346px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 5355px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 34px;
+  font-weight: 400;
+  height: 22px;
+  left: 1471px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 5367px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .line-5 {
+  height: 8px;
+  left: 353px;
+  position: absolute;
+  top: 5316px;
+  width: 1185px;
+}
+
+.PIAIC-LMS-first-page .line-6 {
+  height: 8px;
+  left: 353px;
+  position: absolute;
+  top: 5446px;
+  width: 1185px;
+}
+
+.PIAIC-LMS-first-page .text-wrapper-37 {
+  color: #a3b3bc;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 22px;
+  left: 1178px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 6275px;
+  white-space: nowrap;
+}
+
+.PIAIC-LMS-first-page .discord-footer {
+  height: 14px;
+  left: 268px;
+  position: absolute;
+  top: 6273px;
+  width: 18px;
+}
+
+.PIAIC-LMS-first-page .twitter-footer {
+  height: 16px;
+  left: 297px;
+  position: absolute;
+  top: 6272px;
+  width: 19px;
+}
+
+.PIAIC-LMS-first-page .youtube-footer {
+  height: 16px;
+  left: 327px;
+  position: absolute;
+  top: 6272px;
+  width: 21px;
+}
+
+.PIAIC-LMS-first-page .instagram-footer {
+  height: 20px;
+  left: 359px;
+  position: absolute;
+  top: 6270px;
+  width: 19px;
+}
+
+.PIAIC-LMS-first-page .linkedin-footer {
+  height: 18px;
+  left: 389px;
+  position: absolute;
+  top: 6269px;
+  width: 19px;
+}
+
+.PIAIC-LMS-first-page .github-footer {
+  height: 17px;
+  left: 419px;
+  position: absolute;
+  top: 6273px;
+  width: 18px;
+}
